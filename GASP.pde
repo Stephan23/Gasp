@@ -61,8 +61,6 @@ void setup()
   
   nicePos = new Vec();
   nice = loadImage("nice.png");
-//  bg   = loadImage("b.png");
-//  bg.resize(width, height);
   
   accel = new AccelerometerManager(this);
   ac = new Vec();
